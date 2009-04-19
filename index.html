@@ -1,0 +1,25 @@
+---
+layout: default
+title: Building mandolins?
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  
+  <h1>Why?</h1>
+  <p>Who knows? The beginning of this year I decided I wanted to build a harpsichord.
+     That morphed into a desire to build a mandolin.
+     I was ambivalent about whether or not to use a kit, but found a cheap one in a local music store and bit the bullet.
+     That's all I can say. Hopefully I don't mess it up too bad!</p>
+     
+    <blockquote><p>As long as ideas are expressed, as long as friction makes bright, as long as vibrating wires make music of harps, we do not want redeemers.<br />
+     — <cite href="http://forest.leanside.com/2009/04/15/this-date-from-henry-david-thoreau-s-journal-april-15.html">Henry David Thoreau's Journal: April 15, 1852</cite></p>
+    </blockquote>
+    
+    <p>Most importantly, why not?</p>
+  </div>
