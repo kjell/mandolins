@@ -1,6 +1,7 @@
 @import blueprint.sass
-@import blueprint/modules/scaffolding.sass
+@import blueprint/modules/fancy_type.sass
 @import compass/reset.sass
+@import compass/utilities.sass
 
 +blueprint
 
@@ -16,24 +17,30 @@ a
 #forest
   background-color: black
   padding: 2em
+  
+  img
+    width: 100%
 
-#forest img
-  width: 100%
+  a
+    text-decoration: none
+    
+    &:hover
+      color: white
+      
+  h1
+    color: #235667
+    text-align: right
 
-#forest a
-  text-decoration: none
-
-#forest h1
-  color: #235667
-  text-align: right
-
-#forest p
-  margin: 0
-  color: #574143
-  text-align: right
-  text-transform: lowercase
+  p
+    margin: 0
+    color: #574143
+    text-align: right
+    text-transform: lowercase
 
 #trunk
-  font-size: .87em
+  font-size: 111%
   background-color: white
   padding: 3em
+  
+  img
+    width: 100%
