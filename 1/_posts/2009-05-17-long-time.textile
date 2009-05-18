@@ -1,0 +1,50 @@
+---
+layout: default
+title: Been quite a while
+---
+
+So, here I am. Somewhat ashamedly in fact. Turns out that two weeks ago, sunday morning, just having awaken, I decided to go do some work on the mando.
+
+The day before I'd done a bit of twiddling on neck profile, shaped the tone bars, cut the headstock, and glued in the neck. I was mostly successful: I caused a bit of tear-out on the headstock veneer, which sucks and I'll have to either find some way to disguise or maybe replace the veneer; there's a bit of a bump on the back of the neck as it transitions into the headstock; and when I added glue to the neck and stuck it into the dovetail the glue threw off what I thought was a pretty damn flush fit, leaving a tiny ledge between the bottom tailblock and the base of the neck. I'll probably put a piece of manilla folder in there or something, I don't know how I'd get a piece of wood thin enough to fit in there.
+
+<div class="flickr media wide">
+  <a href="http://www.flickr.com/photos/kjell/3502254467/"><img src="http://farm4.static.flickr.com/3408/3502254467_122e0093dc.jpg" title="P1000906"></a>
+</div>
+      
+<div class="flickr media wide">
+  <a href="http://www.flickr.com/photos/kjell/3502248475/"><img src="http://farm4.static.flickr.com/3608/3502248475_50437c3cd9.jpg" title="P1000903"></a>
+</div>
+      
+<div class="flickr media wide">
+  <a href="http://www.flickr.com/photos/kjell/3503053772/"><img src="http://farm4.static.flickr.com/3596/3503053772_af4f10887f.jpg" title="P1000901"></a>
+</div>
+      
+<div class="flickr media wide">
+  <a href="http://www.flickr.com/photos/kjell/3503046310/"><img src="http://farm4.static.flickr.com/3323/3503046310_b7f800cc9b.jpg" title="P1000896"></a>
+</div>
+      
+<div class="flickr media tall">
+  <a href="http://www.flickr.com/photos/kjell/3502226957/"><img src="http://farm4.static.flickr.com/3376/3502226957_7b11c32911.jpg" title="P1000907"></a>
+</div>
+
+But, back to sunday morning.
+
+I might also add that the thursday before this I'd just taken ownership of a nice, new Gibson A9. Upon taking it out of the box I recorded "a quick little ditty":http://leanside.com/songs!/jessamyr's-reel.mp3 [1].
+
+The neck joint had holes on either side to accept dowels, to really stick the neck un there good. I was pumped, because shit, this thing was getting close! I wanted to flatten off the two dowels, and taking stock of the tools I had at hand (I was working at the dining room table for whatever reason) all I could fine was the chisel I'd used to chop down the tonebars. Not a tool well-suited to the task. But I was groggy, or at least that's the only explanation that I can come up with ex-post-facto.
+
+So I got the first one off, and where I really should've realized how stupidly I was hacking at these little dowels with a sharp chisel. So long story short the chisel met my fingers with heartbreaking (actually, tendon lacerating) results.
+
+This wasn't my brightest moment.
+
+In fact sitting here 2 weeks into recovery—with 4 weeks to go until I can take the splint off my left hand and actively move the middle finger—I have a hard time coming up with anything worse that's ever happened to to me. But that's just me being emo. <!-- I've turned a phrase: “I recently severed 3.5 things: 1.5 tendons and a nerve in my middle finger, along with my will to live.” But that's a bit melodramatic. Such a stupid and unfortunate injury does give me quite a few regrets though. -->
+
+So that's the cause for whatever slowness. I have done a few things since. Glued the lining for the back on the other day, evened it out. I've started prepping for gluing the back, trying to think how I want to do it. The cello clamps everyone uses don't particularly appeal to me, and I'm guessing would be an enormous pain to build one-handed.
+
+I like the method illustrated <a href=http://proulxguitars.com/images/js_images/20090426_0846_small.jpg>here</a>, by <a href="http://proulxguitars.com/js_mando/js_6.htm">Mario Proulx</a> a lot more, and I've tentatively settled on trying it. But I dont have any kind of body form, and I'm suspicious that the sides are bowing out a bit already, which complicated things. There's a bit more thinking to do there before the glue comes out.
+
+Finally, my sister came back from school in Iowa yesterday, and I had her get me a bottle of <a href="http://dudenbostel.leanside.com/2.html#14b">everclear (to dissolve shellac)</a>, but the only kind she could find was 150 proof instead of 190. I'm not sure if that's pure enough. But I've got lots of sanding and practicing with dye before I get to where I'll be ready to french polish.
+
+So. Hopefully I can get my finger back as wiggly and strong as ever, and I won't have to hold any grudges against myself, that chisel, or this mandolin project. At least I'm getting good at typing one-handed. That's all for now.
+
+fn1. (Of course now I wish I'd taken an hour or two to accustom myself to the new feel of the fingerboard and the ultimate recording of myself pre-injury wasn't so crummy…)
